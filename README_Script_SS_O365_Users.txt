@@ -11,7 +11,7 @@ Vooraleer je het script uitvoert:
 
 In de template staan een aantal zaken die je moet aanpassen voor je eigen school. Deze worden voorafgegaan door twee *. Je zoekt gewoon naar de sterretjes (ctrl + F), verwijdert deze en vult je schooleigen gegevens in.
 	Bijvoorbeeld: 
-		**$gebruikersnaam@domein.be      $gebruikersnaam@vibo.be 
+		**$gebruikersnaam@domein.be   ==>   $gebruikersnaam@vibo.be 
 
 
 
