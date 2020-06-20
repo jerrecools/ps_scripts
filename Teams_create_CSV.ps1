@@ -7,7 +7,8 @@
     $csv = Import-Csv "$PSScriptRoot\teams.csv"
 
 
-# Verbinden met MS Teams - zie https://docs.microsoft.com/en-us/microsoftteams/install-prerelease-teams-powershell-module
+# Verbinden met MS Teams - 
+# Eerst het volgende installeren: zie https://docs.microsoft.com/en-us/microsoftteams/install-prerelease-teams-powershell-module
     Connect-MicrosoftTeams
 
 
